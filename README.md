@@ -21,7 +21,11 @@ https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainStackFloat.java
 1.i.  Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe String.
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/QueueString.java
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainQueueString.java
-1.j. Buatlah sebuah Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Double.
+1.j.Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Double.
 1.k. Buatlah sebuah Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Float.
-1.l. Buatlah sebuah Class Stack disertai Class Main untuk menyimpan variabe-variabel bertipe Generic.
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/QueueFloat.java
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainQueueFloat.java
+1.l.Class Stack disertai Class Main untuk menyimpan variabe-variabel bertipe Generic.
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/StackGeneric.java
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainStackGeneric.java
 1.m. Buatlah sebuah Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Generic.
