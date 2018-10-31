@@ -28,4 +28,6 @@ https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainQueueFloat.java
 1.l.Class Stack disertai Class Main untuk menyimpan variabe-variabel bertipe Generic.
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/StackGeneric.java
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainStackGeneric.java
-1.m. Buatlah sebuah Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Generic.
+1.m.Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Generic.
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/QueueGeneric.java
+
