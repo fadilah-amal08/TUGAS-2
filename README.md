@@ -8,7 +8,8 @@ https://github.com/fadilah-amal08/TUGAS-2/blob/master/ArrayListFloat.java
 1.d. Class main untuk penggunaan Struktur Data ArrayList bertipe Double.
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/ArrayListDouble.java
 1.e. Class main untuk penggunaan Struktur Data ArrayList bertipe object dari Class Mahasiswa 
-
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/mahasiswa.java
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainArrayListObject.java
 1.f.Class Stack disertai Class Main untuk menyimpan variabe-variabel bertipe String
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/StackString.java
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainStackString.java
