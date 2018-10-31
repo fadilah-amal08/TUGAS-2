@@ -30,4 +30,5 @@ https://github.com/fadilah-amal08/TUGAS-2/blob/master/StackGeneric.java
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainStackGeneric.java
 1.m.Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Generic.
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/QueueGeneric.java
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainQueueGeneric.java
 
