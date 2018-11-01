@@ -24,6 +24,7 @@ https://github.com/fadilah-amal08/TUGAS-2/blob/master/QueueString.java
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainQueueString.java
 1.j.Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Double.
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/QueueDouble.java
+https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainQueueDouble.java
 1.k. Buatlah sebuah Class Queue disertai Class Main untuk menyimpan variabe-variabel bertipe Float.
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/QueueFloat.java
 https://github.com/fadilah-amal08/TUGAS-2/blob/master/MainQueueFloat.java
